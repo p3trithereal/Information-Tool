@@ -1,0 +1,8 @@
+C:\Users\p3tri\source\repos\whoami\whoami\bin\Debug\whoami.exe.config
+C:\Users\p3tri\source\repos\whoami\whoami\bin\Debug\whoami.exe
+C:\Users\p3tri\source\repos\whoami\whoami\bin\Debug\whoami.pdb
+C:\Users\p3tri\source\repos\whoami\whoami\obj\Debug\whoami.csproj.CoreCompileInputs.cache
+C:\Users\p3tri\source\repos\whoami\whoami\obj\Debug\whoami.exe
+C:\Users\p3tri\source\repos\whoami\whoami\obj\Debug\whoami.pdb
+C:\Users\p3tri\source\repos\whoami\whoami\obj\Debug\whoami.csproj.AssemblyReference.cache
+C:\Users\p3tri\source\repos\whoami\whoami\obj\Debug\whoami.csproj.SuggestedBindingRedirects.cache
